@@ -1,0 +1,15 @@
+
+<%@ page pageEncoding="UTF-8" %>
+
+<nav id="menu">
+    <ul >
+        <li ><a  href="/trb1lp3/index.jsp">Início</a ></li >
+        <li ><a  href="/trb1lp3/lst1q01/index.jsp">Exercício 1</a ></li >
+        <li ><a  href="/trb1lp3/lst1q02/index.jsp">Exercício 2</a ></li >
+        <li ><a  href="/trb1lp3/lst1q03/index.jsp">Exercício 3</a ></li >
+        <li ><a  href="/trb1lp3/lst1q04/index.jsp">Exercício 4</a ></li >
+        <li ><a  href="/trb1lp3/lst1q05/index.jsp">Exercício 5</a ></li >
+        <li ><a  href="/trb1lp3/lst1q06/index.jsp">Exercício 6</a ></li >
+    </ul >
+</nav>
+
